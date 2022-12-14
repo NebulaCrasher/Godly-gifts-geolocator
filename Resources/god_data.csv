@@ -1,133 +1,115 @@
-﻿god_name,description,mythology,godly_aspects
-Aker , A god of the earth and the horizon,Egyptian,"earth, boundaries"
-Amun ," A creator god, god of air",Egyptian,"creator, air"
-Anhur,A god of war and hunting,Egyptian,war. Hunting
-Anubis,God of the dead. Carries the dead to the judgement place of the Underworld,Egyptian,death
-Atum,"A creator god and solar deity, god of pre/post existence",Egyptian,"creator, existence"
-Bennu,"A solar and creator deity, associated with rebirth",Egyptian,"creator, rebirth"
-Geb,An earth god and member of the Ennead,Egyptian,Earth god
-Hapi,Personification of the Nile flood,Egyptian,"river, flooding"
-Horus,"A major god, usually shown as a falcon or as a human child, linked with the sky, the sun, kingship, protection, and healing. Often said to be the son of Osiris and Isis.",Egyptian,"sky, kingship"
-Khepri,"A solar creator god, often treated as the morning form of Ra and represented by a scarab beetle",Egyptian,"creator, sun"
-Khnum ," A ram god, the patron deity of Elephantine, who was said to control the Nile flood and give life to gods and humans",Egyptian,"river, birth"
-Montu,"A god of war and the sun, worshipped at Thebes",Egyptian,
-Nefertum,God of the lotus blossom from which the sun god rose at the beginning of time. Son of Ptah and Sekhmet.,Egyptian,
-Nemty,"Falcon god, worshipped in Middle Egypt, who appears in myth as a ferryman for greater gods",Egyptian,
-Neper,A god of grain,Egyptian,
-Osiris,"god of death and resurrection who rules the underworld and enlivens vegetation, and deceased souls",Egyptian,
-Ptah,"A creator deity and god of craftsmen, the patron god of Memphis",Egyptian,
-Ra ," Sun God, king of gods, sky god",Egyptian,
-Set,"An ambivalent god, characterized by violence, chaos, and strength, connected with the desert. Murderer of Osiris and enemy of Horus",Egyptian,
-Shu,"Embodiment of wind or air, a member of the Ennead",Egyptian,
-Sobek,"Crocodile god, worshipped in the Faiyum and at Kom Ombo",Egyptian,
-Sopdu,A god of the sky and of Egypt's eastern border regions,Egyptian,
-Thoth,"A moon god, and a god of writing and scribes, and patron deity of Hermopolis",Egyptian,
-Wadj,God of fertility,Egyptian,
-Bastet,"Goddess represented as a cat or lioness, patroness of the city of Bubastis, linked with protection from evil",Egyptian,
-Hathor," One of the most important goddesses, linked with the sky, the sun, sexuality and motherhood, music and dance, foreign lands and goods, and the afterlife. One of many forms of the Eye of Ra.[36]",Egyptian,
-Heqet,Frog goddess said to protect women in childbirth,Egyptian,
-Hesat,cow goddess dealing with motherhood,Egyptian,
-Isis,"Wife of Osiris and mother of Horus, linked with funerary rites, motherhood, protection, and magic. She became a major deity in Greek and Roman religion.",Egyptian,
-Maat,"Goddess who personified truth, justice, and order",Egyptian,
-Neith,"A creator and hunter goddess, patron of the city of Sais in Lower Egypt",Egyptian,
-Nekhbet,"A vulture goddess, the tutelary deity of Upper Egypt",Egyptian,
-Nephthys,"Goddess of air, head of family",Egyptian,
-Nepit ," A goddess of grain, female counterpart of Neper",Egyptian,
-Nut ," A sky goddess, a member of the Ennead",Egyptian,
-Renenutet , An agricultural goddess,Egyptian,
-Satet , A goddess of Egypt's southern frontier regions,Egyptian,
-Sekhmet ," A lioness goddess, both destructive and violent and capable of warding off disease, protector of the pharaohs who led them in war, the consort of Ptah and one of many forms of the Eye of Ra.",Egyptian,
-Tefnut , Lioness goddess of moisture and a member of the Ennead,Egyptian,
-Wadjet," A cobra goddess, the tutelary deity of Lower Egypt",Egyptian,
-Aphrodite,"goddess of beauty, love, desire, and pleasure",Greek,
-Apollo,"god of music, arts, knowledge, healing, plague, prophecy, poetry, manly beauty, and archery",Greek,
-Ares,"god of courage, war, bloodshed, and violence",Greek,
-Artemis,"virgin goddess of the hunt, wilderness, animals, the moon and young girls",Greek,
-Athena,"goddess of reason, wisdom, intelligence, skill, peace, warfare, battle strategy, and handicrafts",Greek,
-Demeter,"goddess of grain, agriculture, harvest, growth, and nourishment",Greek,
-Dionysus,"god of wine, fruitfulness, parties, festivals, madness, chaos, drunkenness, vegetation, ecstasy, and the theater",Greek,
-Hades,god and king of the underworld and the dead,Greek,
-Hephaestus,"god of fire, metalworking, and crafts",Greek,
-Hera,"queen of the gods, and goddess of marriage, women, childbirth, heirs, kings, and empires",Greek,
-Hermes,"god of boundaries, travel, communication, trade, language, thieves and writing",Greek,
-Hestia,"virgin goddess of the hearth, home, and chastity",Greek,
-Helios,Sun god,Greek,
-Poseidon,"god of the sea, rivers, floods, droughts, and earthquakes",Greek,
- Zeus,"king of the gods, ruler of mount olympus, and god of the sky, weather, thunder, lightning, law, order, and justice",Greek,
-Achlys," goddess of poisons, and the personification of misery and sadness",Greek,
-Aether, god of light and the upper atmosphere,Greek,
-Aion," god of eternity, personifying cyclical and unbounded time",Greek,
-Ananke," goddess of inevitability, compulsion, and necessity",Greek,
-Chaos, personification of nothingness from which all of existence sprang,Greek,
-Chronos," god of empirical time, sometimes equated with aion",Greek,
-Erebus, god of darkness and shadow,Greek,
-Eros, god of love and attraction,Greek,
-Gaia,personification of the earth (mother earth); mother of the titans,Greek,
-Hemera, goddess of day,Greek,
-Hypnos,god of sleep,Greek,
-Nemesis, goddess of retribution,Greek,
-Nesoi, goddesses of islands,Greek,
-Nyx, goddess of night,Greek,
-Ourea, gods of mountains,Greek,
-Tartarus," god of the deepest, darkest part of the underworld, the tartarean pit (which is also referred to as tartarus itself)",Greek,
-Thanatos,god of death,Greek,
-Uranus, god of the heavens (father sky); father of the titans,Greek,
-Morpheus,god of dreaming,Greek,
-Nike,goddess of victory,Greek,
-Kratos,"god of strength, might, power, and sovereign rule",Greek,
-Persephone,goddess of agriculture,Greek,
-Aegir ,Norse God of the sea. Married to Ran and lives under the waves near the island of Hlesey.,Norse,
-Aesir , A group of warrior gods led by Odin who inhabit Asgard.,Norse,
-Balder , Son of Odin and Frigg. Known as a gentle and wise god. Killed accidentally by his brother Hod. Will return after Ragnarok.,Norse,
-Bolverk , The alias Odin adopted when disguised as a giant to win the mead of poetry.,Norse,
-Bor ," Son of Buri and father of Odin, Vili and Ve.",Norse,
-Bragi , The Norse God of poetry and eloquence. Son of Odin and husband of Idun.,Norse,
-Buri , Ancestor of the Norse gods. Created by the cow Audmula licking him from ice.,Norse,
-Day , Son of Night and Delling. Said to ride around the earth on his horse Skinfaxi.,Norse,
-Earth , Daughter of Night and Annar.,Norse,
-Einherjar , Band of dead warriors in Valhalla who await Ragnarok.,Norse,
-Eir , Goddess of healing,Norse,
-Fjorgyn , Lover of Odin and mother of Thor. Also referred to as Earth.,Norse,
-Forseti , God of Justice. Son of Balder and Nanna.,Norse,
-Freyja , Main goddess of the Vanir (fertility gods). Daughter of Njord and sister of Freyr.,Norse,
-Freyr , Important god of the Vanir. Son of Njord and brother of Freyja.,Norse,
-Frigga , Main goddess. Wife of Odin and mother of Balder.,Norse,
-Fulla , Goddess servant of Frigga.,Norse,
-Gefion , Fertility goddess. Associated with the plow. Tricked the king of Sweden out of a tract of his land.,Norse,
-Heimdall ," Watchman of the Norse gods and owner of the horn Gjall. Son of nine mothers. Often identified with Rig, the creator of three races of men.",Norse,
-Hel ," ruler of Helheim, the realm of the dead",Norse,
-Hermod , Son of Odin. Rode to Hel to try and rescue his brother Balder.,Norse,
-Hod , Son of Odin. A blind god who accidentally killed his brother Balder. he will return after Ragnarok.,Norse,
-Idun , Guardian of the golden apples of youth,Norse,
-Kvasir , the wisest. Created from the spittle of the gods.,Norse,
-Lofn , Goddess of ilicit unions.,Norse,
-Loki ," The sly, trickster of the Norse gods. Son of two giants. Also known as the Sly One, the Trickster, the Shape Changer and the Sky Traveller. Becomes increasingly more evil. He is responsible for the death of Balder. Bound until Ragnarok.",Norse,
-Magni , Son of Thor and the giantess Jarnsaxa. Will inherit Thor’s hammer Mjollnir with his brother Modi after Ragnarok.,Norse,
-Mimir ," Wise Aesir god. Sent to the Vanir to seal the truce between the two groups of the Norse gods. Killed by the Vanir, his head is kept by Odin.",Norse,
-Modgud , Maiden guardian of the bridge over the river Gjoll in Jotenheim.,Norse,
-Modi , Son of Thor and the giantess Jarnsaxa. Will inherit Thor’s hammer Mjollnir with his brother Magni after Ragnarok.,Norse,
-Moon , Son of Mundilfari. Guides the moon on it’s course.,Norse,
-Nanna , Wife of Balder and daughter of Nep.,Norse,
-Narvi , Also known as Nari. Son of Loki and Sigyn who was killed by his brother Vali.,Norse,
-Night , Daughter of Narvi and mother of Day. Rides around the earth on her horse Hrimfaxi.,Norse,
-Njord , A Vanir god associated with wind and sea. Husband of Skadi and father of Freyja and Freyr.,Norse,
-Norns ," Urd “fate”, Skuld “being” and Verandi “necessity”. Three goddesses of destiny.",Norse,
-Od , Missing husband of Freyja who she constantly mourns for.,Norse,
-Odin ," King of the Norse Gods, God of poetry, battle and death. Chief god of the Aesir. Also known as the “all father”, the “terrible one”",Norse,
-Ran , Wife of Aegir who dragged drowning men down with her net.,Norse,
-Rig , Pseudonym of Heimdall and the creator of three races of men.,Norse,
-Sjofn , Goddess of human passion.,Norse,
-Skadi , Goddess of Winter and of the Hunt,Norse,
-Sun , Daughter of Mundilfari and guide of the sun.,Norse,
-Syn , Goddess of the accused at trial.,Norse,
-Thor ," God of Sky, thunder and fertility. Associated with law and order in Asgard and guardian of the Norse gods. Son of Odin and Earth and husband of Sif. Also known as the “thunder god” and “charioteer”.",Norse,
-Thrud , Daughter of Thor. Promised to the dwarf Alvis.,Norse,
-Tyr , War god. Son of Odin who sacrificed his hand in the binding of Fenrir.,Norse,
-Ull , God of archery and skiing.,Norse,
-Vali , Son of Odin and the giantess Rind. Conceived to avenge the death of Balder.,Norse,
-Vanir , Fertility gods.,Norse,
-Var , Goddess of marriage oaths.,Norse,
-Ve , Son of Bor and brother of Odin and Vili.,Norse,
-Vidar , Son of Odin and the giantess Grid who will avenge Odin’s death after Ragnarok.,Norse,
-Vili , Son of Bor and brother of Odin and Ve.,Norse,
-Vor , Goddess who knows all.,Norse,
+﻿god_name,description,mythology,godly_aspects,godly_aspects2
+Aker , A god of the earth and the horizon,Egyptian,earth, boundaries
+Amun ," A creator god, god of air",Egyptian,creator, air
+Anhur,A god of war and hunting,Egyptian,war, hunter
+Anubis,God of the dead. Carries the dead to the judgement place of the Underworld,Egyptian,death,judgement
+Atum,"A creator god and solar deity, god of pre/post existence",Egyptian,creator, existence
+Bennu,"A solar and creator deity, associated with rebirth",Egyptian,creator, rebirth
+Geb,An earth god and member of the Ennead,Egyptian,Earth god,primordial
+Hapi,Personification of the Nile flood,Egyptian,water, flooding
+Horus,"A major god, usually shown as a falcon or as a human child, linked with the sky, the sun, kingship, protection, and healing. Often said to be the son of Osiris and Isis.",Egyptian,sky, kingship
+Khepri,"A solar creator god, often treated as the morning form of Ra and represented by a scarab beetle",Egyptian,creator, sun
+Khnum ," A ram god, the patron deity of Elephantine, who was said to control the Nile flood and give life to gods and humans",Egyptian,water, birth
+Montu,"A god of war and the sun, worshipped at Thebes",Egyptian,war, sun
+Nefertum,God of the lotus blossom from which the sun god rose at the beginning of time. Son of Ptah and Sekhmet.,Egyptian,creator, primordial
+Nemty,"Falcon god, worshipped in Middle Egypt, who appears in myth as a ferryman for greater gods",Egyptian,ferryman,
+Neper,A god of grain,Egyptian,agriculture,harvest
+Osiris,"god of death and resurrection who rules the underworld and enlivens vegetation, and deceased souls",Egyptian,death,underworld
+Ptah,"A creator deity and god of craftsmen, the patron god of Memphis",Egyptian,creator, crafts
+Ra ," Sun God, king of gods, sky god",Egyptian,god king,sky
+Set,"An ambivalent god, characterized by violence, chaos, and strength, connected with the desert. Murderer of Osiris and enemy of Horus",Egyptian,trickster,violence
+Shu,"Embodiment of wind or air, a member of the Ennead",Egyptian,air,
+Sobek,"Crocodile god, worshipped in the Faiyum and at Kom Ombo",Egyptian,crocodiles,
+Sopdu,A god of the sky and of Egypt's eastern border regions,Egyptian,sky,kingship
+Thoth,"A moon god, and a god of writing and scribes, and patron deity of Hermopolis",Egyptian,moon, knowledge
+Wadj,God of fertility,Egyptian,fertility,
+Bastet,"Goddess represented as a cat or lioness, patroness of the city of Bubastis, linked with protection from evil",Egyptian,protection,kingship
+Hathor," One of the most important goddesses, linked with the sky, the sun, sexuality and motherhood, music and dance, foreign lands and goods, and the afterlife. One of many forms of the Eye of Ra.",Egyptian,femininity, afterlife
+Heqet,Frog goddess said to protect women in childbirth,Egyptian,proteciton, childbirth
+Hesat,cow goddess dealing with motherhood,Egyptian,motherhood,
+Isis,"Wife of Osiris and mother of Horus, linked with funerary rites, motherhood, protection, and magic. She became a major deity in Greek and Roman religion.",Egyptian,protection, magic
+Maat,"Goddess who personified truth, justice, and order",Egyptian,justice, order
+Neith,"A creator and hunter goddess, patron of the city of Sais in Lower Egypt",Egyptian,creator, hunter
+Nekhbet,"A vulture goddess, the tutelary deity of Upper Egypt",Egyptian,protection, kingship
+Nephthys,"Goddess of air, head of family",Egyptian,family, air
+Nepit ," A goddess of grain, female counterpart of Neper",Egyptian,agriculture,
+Nut ," A sky goddess, a member of the Ennead",Egyptian,cosmos, primordial
+Renenutet , An agricultural goddess,Egyptian,agriculture,harvest
+Satet , A goddess of Egypt's southern frontier regions,Egyptian,war, fertility
+Sekhmet ," A lioness goddess, both destructive and violent and capable of warding off disease, protector of the pharaohs who led them in war, the consort of Ptah and one of many forms of the Eye of Ra.",Egyptian,protection, destruction
+Tefnut , Lioness goddess of moisture and a member of the Ennead,Egyptian,moisture,
+Wadjet," A cobra goddess, the tutelary deity of Lower Egypt",Egyptian,protection, kingship
+Aphrodite,"goddess of beauty, love, desire, and pleasure",Greek,femininity,desire
+Apollo,"god of music, arts, knowledge, healing, plague, prophecy, poetry, manly beauty, and archery",Greek,art, hunter
+Ares,"god of courage, war, bloodshed, and violence",Greek,war,violence
+Artemis,"virgin goddess of the hunt, wilderness, animals, the moon and young girls",Greek,moon,hunt
+Athena,"goddess of reason, wisdom, intelligence, skill, peace, warfare, battle strategy, and handicrafts",Greek,war,knowledge
+Demeter,"goddess of grain, agriculture, harvest, growth, and nourishment",Greek,agriculture,harvest
+Dionysus,"god of wine, fruitfulness, parties, festivals, madness, chaos, drunkenness, vegetation, ecstasy, and the theater",Greek,wine,parties
+Hades,god and king of the underworld and the dead,Greek,death,underworld
+Hephaestus,"god of fire, metalworking, and crafts",Greek,fire,crafts
+Hera,"queen of the gods, and goddess of marriage, women, childbirth, heirs, kings, and empires",Greek,god queen,marriage
+Hermes,"god of boundaries, travel, communication, trade, language, thieves and writing",Greek,travel,boundaries
+Hestia,"virgin goddess of the hearth, home, and chastity",Greek,chastity,home
+Helios,Sun god,Greek,sun,
+Poseidon,"god of the sea, rivers, floods, droughts, and earthquakes",Greek,water,earthquakes
+ Zeus,"king of the gods, ruler of mount olympus, and god of the sky, weather, thunder, lightning, law, order, and justice",Greek,god king,sky
+Achlys," goddess of poisons, and the personification of misery and sadness",Greek,poison,sadness
+Aether, god of light and the upper atmosphere,Greek,light,atmosphere
+Aion," god of eternity, personifying cyclical and unbounded time",Greek,eternity,time
+Ananke," goddess of inevitability, compulsion, and necessity",Greek,inevitability,necessity
+Chaos, personification of nothingness from which all of existence sprang,Greek,creator,primordial
+Chronos," god of empirical time, sometimes equated with aion",Greek,time,primordial
+Erebus, god of darkness and shadow,Greek,darkness,primordial
+Eros, god of love and attraction,Greek,attraction,love
+Gaia,personification of the earth (mother earth); mother of the titans,Greek,Earth god,primordial
+Hemera, goddess of day,Greek,day,
+Hypnos,god of sleep,Greek,sleep,
+Nemesis, goddess of retribution,Greek,vengeance,
+Nesoi, goddesses of islands,Greek,islands,
+Nyx, goddess of night,Greek,night,
+Ourea, gods of mountains,Greek,mountains,
+Tartarus," god of the deepest, darkest part of the underworld, the tartarean pit (which is also referred to as tartarus itself)",Greek,underworld,primordial
+Thanatos,god of death,Greek,death,
+Uranus, god of the heavens (father sky); father of the titans,Greek,sky,primordial
+Morpheus,god of dreaming,Greek,dreams,
+Nike,goddess of victory,Greek,victory,
+Kratos,"god of strength, might, power, and sovereign rule",Greek,power,
+Persephone,goddess of agriculture,Greek,agriculture,
+Aegir ,Norse God of the sea. Married to Ran and lives under the waves near the island of Hlesey.,Norse,water,
+Balder , Son of Odin and Frigg. Known as a gentle and wise god. Killed accidentally by his brother Hod. Will return after Ragnarok.,Norse,wisdom,
+Bor ," Son of Buri and father of Odin, Vili and Ve.",Norse,,primordial
+Bragi , The Norse God of poetry and eloquence. Son of Odin and husband of Idun.,Norse,art,
+Buri , Ancestor of the Norse gods. Created by the cow Audmula licking him from ice.,Norse,,primordial
+Day , Son of Night and Delling. Said to ride around the earth on his horse Skinfaxi.,Norse,day,
+Earth , Daughter of Night and Annar.,Norse,Earth Goddess,
+Eir , Goddess of healing,Norse,healing,
+Forseti , God of Justice. Son of Balder and Nanna.,Norse,,judgement
+Freyja , Main goddess of the Vanir (fertility gods). Daughter of Njord and sister of Freyr.,Norse,fertility,
+Freyr , Important god of the Vanir. Son of Njord and brother of Freyja.,Norse,fertility,
+Frigga , Main goddess. Wife of Odin and mother of Balder.,Norse,god queen,
+Gefion , Fertility goddess. Associated with the plow. Tricked the king of Sweden out of a tract of his land.,Norse,fertility,
+Heimdall ," Watchman of the Norse gods and owner of the horn Gjall. Son of nine mothers. Often identified with Rig, the creator of three races of men.",Norse,creator,
+Hel ," ruler of Helheim, the realm of the dead",Norse,underworld,
+Idun , Guardian of the golden apples of youth,Norse,youth,
+Kvasir , the wisest. Created from the spittle of the gods.,Norse,wisdom,
+Lofn , Goddess of ilicit unions.,Norse,infidelity,
+Loki ," The sly, trickster of the Norse gods. Son of two giants. Also known as the Sly One, the Trickster, the Shape Changer and the Sky Traveller. Becomes increasingly more evil. He is responsible for the death of Balder. Bound until Ragnarok.",Norse,trickster,
+Mimir ," Wise Aesir god. Sent to the Vanir to seal the truce between the two groups of the Norse gods. Killed by the Vanir, his head is kept by Odin.",Norse,wisdom,knowledge
+Modgud , Maiden guardian of the bridge over the river Gjoll in Jotenheim.,Norse,protection,
+Moon , Son of Mundilfari. Guides the moon on it’s course.,Norse,moon,
+Night , Daughter of Narvi and mother of Day. Rides around the earth on her horse Hrimfaxi.,Norse,night,
+Njord , A Vanir god associated with wind and sea. Husband of Skadi and father of Freyja and Freyr.,Norse,water,air
+Norns ," Urd “fate”, Skuld “being” and Verandi “necessity”. Three goddesses of destiny.",Norse,destiny,
+Odin ," King of the Norse Gods, God of poetry, battle and death. Chief god of the Aesir. Also known as the “all father”, the “terrible one”",Norse,god king,battle
+Sjofn , Goddess of human passion.,Norse,,desire
+Skadi , Goddess of Winter and of the Hunt,Norse,winter,hunt
+Sun , Daughter of Mundilfari and guide of the sun.,Norse,sun,
+Syn , Goddess of the accused at trial.,Norse,,judgement
+Thor ," God of Sky, thunder and fertility. Associated with law and order in Asgard and guardian of the Norse gods. Son of Odin and Earth and husband of Sif. Also known as the “thunder god” and “charioteer”.",Norse,sky,judgement
+Tyr , War god. Son of Odin who sacrificed his hand in the binding of Fenrir.,Norse,war,
+Ull , God of archery and skiing.,Norse,skiing,hunt
+Vali , Son of Odin and the giantess Rind. Conceived to avenge the death of Balder.,Norse,vengeance,
+Var , Goddess of marriage oaths.,Norse,,marriage
+Vidar , Son of Odin and the giantess Grid who will avenge Odin’s death after Ragnarok.,Norse,vengeance,
+Vor , Goddess who knows all.,Norse,wisdom,knowledge
