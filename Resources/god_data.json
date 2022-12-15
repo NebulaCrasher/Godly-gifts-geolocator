@@ -1,0 +1,1028 @@
+[
+ {
+   "id": 1,
+   "god_name": "Aker ",
+   "description": "A god of the earth and the horizon",
+   "mythology": "Egyptian",
+   "godly_aspects": "earth",
+   "godly_aspects2": "boundaries",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Aker.svg"
+ },
+ {
+   "id": 2,
+   "god_name": "Amun ",
+   "description": " A creator god, god of air",
+   "mythology": "Egyptian",
+   "godly_aspects": "creator",
+   "godly_aspects2": "air",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Amun_post_Amarna_%28azure_skin_color%29.svg/220px-Amun_post_Amarna_%28azure_skin_color%29.svg.png"
+ },
+ {
+   "id": 3,
+   "god_name": "Anhur",
+   "description": "A god of war and hunting",
+   "mythology": "Egyptian",
+   "godly_aspects": "war",
+   "godly_aspects2": "hunter",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Shu.svg/1200px-Shu.svg.png"
+ },
+ {
+   "id": 4,
+   "god_name": "Anubis",
+   "description": "God of the dead. Carries the dead to the judgement place of the Underworld",
+   "mythology": "Egyptian",
+   "godly_aspects": "death",
+   "godly_aspects2": "judgement",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Anubis_standing.svg/1200px-Anubis_standing.svg.png"
+ },
+ {
+   "id": 5,
+   "god_name": "Atum",
+   "description": "A creator god and solar deity, god of pre/post existence",
+   "mythology": "Egyptian",
+   "godly_aspects": "creator",
+   "godly_aspects2": "existence",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Atum.svg/1200px-Atum.svg.png"
+ },
+ {
+   "id": 6,
+   "god_name": "Bennu",
+   "description": "A solar and creator deity, associated with rebirth",
+   "mythology": "Egyptian",
+   "godly_aspects": "creator",
+   "godly_aspects2": "rebirth",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bennu_bird.svg"
+ },
+ {
+   "id": 7,
+   "god_name": "Geb",
+   "description": "An earth god and member of the Ennead",
+   "mythology": "Egyptian",
+   "godly_aspects": "Earth god/goddess",
+   "godly_aspects2": "primordial",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/5/53/Geb.svg"
+ },
+ {
+   "id": 8,
+   "god_name": "Hapi",
+   "description": "Personification of the Nile flood",
+   "mythology": "Egyptian",
+   "godly_aspects": "water",
+   "godly_aspects2": "flooding",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hapy_tying.svg"
+ },
+ {
+   "id": 9,
+   "god_name": "Horus",
+   "description": "A major god, usually shown as a falcon or as a human child, linked with the sky, the sun, kingship, protection, and healing. Often said to be the son of Osiris and Isis.",
+   "mythology": "Egyptian",
+   "godly_aspects": "sky",
+   "godly_aspects2": "kingship",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Horus_standing.svg/640px-Horus_standing.svg.png"
+ },
+ {
+   "id": 10,
+   "god_name": "Khepri",
+   "description": "A solar creator god, often treated as the morning form of Ra and represented by a scarab beetle",
+   "mythology": "Egyptian",
+   "godly_aspects": "creator",
+   "godly_aspects2": "sun",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Khepri.svg/800px-Khepri.svg.png"
+ },
+ {
+   "id": 11,
+   "god_name": "Khnum ",
+   "description": " A ram god, the patron deity of Elephantine, who was said to control the Nile flood and give life to gods and humans",
+   "mythology": "Egyptian",
+   "godly_aspects": "water",
+   "godly_aspects2": "birth",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Khnum.svg/1200px-Khnum.svg.png"
+ },
+ {
+   "id": 12,
+   "god_name": "Montu",
+   "description": "A god of war and the sun, worshipped at Thebes",
+   "mythology": "Egyptian",
+   "godly_aspects": "war",
+   "godly_aspects2": "sun",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Montu.svg/220px-Montu.svg.png"
+ },
+ {
+   "id": 13,
+   "god_name": "Nefertum",
+   "description": "God of the lotus blossom from which the sun god rose at the beginning of time. Son of Ptah and Sekhmet.",
+   "mythology": "Egyptian",
+   "godly_aspects": "creator",
+   "godly_aspects2": "primordial",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nefertum.svg/1200px-Nefertum.svg.png"
+ },
+ {
+   "id": 14,
+   "god_name": "Nemty",
+   "description": "Falcon god, worshipped in Middle Egypt, who appears in myth as a ferryman for greater gods",
+   "mythology": "Egyptian",
+   "godly_aspects": "ferryman",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Nemty.png"
+ },
+ {
+   "id": 15,
+   "god_name": "Neper",
+   "description": "A god of grain",
+   "mythology": "Egyptian",
+   "godly_aspects": "agriculture",
+   "godly_aspects2": "harvest",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nepri_%28neper%29.png"
+ },
+ {
+   "id": 16,
+   "god_name": "Osiris",
+   "description": "god of death and resurrection who rules the underworld and enlivens vegetation, and deceased souls",
+   "mythology": "Egyptian",
+   "godly_aspects": "death",
+   "godly_aspects2": "underworld",
+   "Img URL": "https://symbolsage.com/wp-content/uploads/2020/09/Osiris-god.png"
+ },
+ {
+   "id": 17,
+   "god_name": "Ptah",
+   "description": "A creator deity and god of craftsmen, the patron god of Memphis",
+   "mythology": "Egyptian",
+   "godly_aspects": "crafts",
+   "godly_aspects2": "creator",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ptah_standing.svg/1200px-Ptah_standing.svg.png"
+ },
+ {
+   "id": 18,
+   "god_name": "Ra",
+   "description": " Sun God, king of gods, sky god",
+   "mythology": "Egyptian",
+   "godly_aspects": "god king",
+   "godly_aspects2": "sky",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Re-Horakhty.svg/1200px-Re-Horakhty.svg.png"
+ },
+ {
+   "id": 19,
+   "god_name": "Set",
+   "description": "An ambivalent god, characterized by violence, chaos, and strength, connected with the desert. Murderer of Osiris and enemy of Horus",
+   "mythology": "Egyptian",
+   "godly_aspects": "trickster",
+   "godly_aspects2": "violence",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Set.svg/1200px-Set.svg.png"
+ },
+ {
+   "id": 20,
+   "god_name": "Shu",
+   "description": "Embodiment of wind or air, a member of the Ennead",
+   "mythology": "Egyptian",
+   "godly_aspects": "air",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Shu_with_feather.svg/1200px-Shu_with_feather.svg.png"
+ },
+ {
+   "id": 21,
+   "god_name": "Sobek",
+   "description": "Crocodile god, worshipped in the Faiyum and at Kom Ombo",
+   "mythology": "Egyptian",
+   "godly_aspects": "crocodiles",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sobek.svg/220px-Sobek.svg.png"
+ },
+ {
+   "id": 22,
+   "god_name": "Sopdu",
+   "description": "A god of the sky and of Egypt's eastern border regions",
+   "mythology": "Egyptian",
+   "godly_aspects": "sky",
+   "godly_aspects2": "kingship",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sopdu_as_a_man.webp/220px-Sopdu_as_a_man.webp.png"
+ },
+ {
+   "id": 23,
+   "god_name": "Thoth",
+   "description": "A moon god, and a god of writing and scribes, and patron deity of Hermopolis",
+   "mythology": "Egyptian",
+   "godly_aspects": "moon",
+   "godly_aspects2": "knowledge",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Thoth.svg/640px-Thoth.svg.png"
+ },
+ {
+   "id": 24,
+   "god_name": "Wadj",
+   "description": "God of fertility",
+   "mythology": "Egyptian",
+   "godly_aspects": "fertility",
+   "godly_aspects2": "",
+   "Img URL": "https://sagesanctuary.files.wordpress.com/2022/07/wadj-wer-2.jpg"
+ },
+ {
+   "id": 25,
+   "god_name": "Bastet",
+   "description": "Goddess represented as a cat or lioness, patroness of the city of Bubastis, linked with protection from evil",
+   "mythology": "Egyptian",
+   "godly_aspects": "protection",
+   "godly_aspects2": "kingship",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bastet.svg/1200px-Bastet.svg.png"
+ },
+ {
+   "id": 26,
+   "god_name": "Hathor",
+   "description": " One of the most important goddesses, linked with the sky, the sun, sexuality and motherhood, music and dance, foreign lands and goods, and the afterlife. One of many forms of the Eye of Ra.",
+   "mythology": "Egyptian",
+   "godly_aspects": "femininity",
+   "godly_aspects2": "afterlife",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hathor.svg/800px-Hathor.svg.png"
+ },
+ {
+   "id": 27,
+   "god_name": "Heqet",
+   "description": "Frog goddess said to protect women in childbirth",
+   "mythology": "Egyptian",
+   "godly_aspects": "protection",
+   "godly_aspects2": "childbirth",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Abydos_Tempelrelief_Ramses_II.jpg"
+ },
+ {
+   "id": 28,
+   "god_name": "Hesat",
+   "description": "cow goddess dealing with motherhood",
+   "mythology": "Egyptian",
+   "godly_aspects": "motherhood",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hathor_cow.svg/1200px-Hathor_cow.svg.png"
+ },
+ {
+   "id": 29,
+   "god_name": "Isis",
+   "description": "Wife of Osiris and mother of Horus, linked with funerary rites, motherhood, protection, and magic. She became a major deity in Greek and Roman religion.",
+   "mythology": "Egyptian",
+   "godly_aspects": "protection",
+   "godly_aspects2": "magic",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Isis.svg/1200px-Isis.svg.png"
+ },
+ {
+   "id": 30,
+   "god_name": "Maat",
+   "description": "Goddess who personified truth, justice, and order",
+   "mythology": "Egyptian",
+   "godly_aspects": "justice",
+   "godly_aspects2": "order",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Maat.svg/1200px-Maat.svg.png"
+ },
+ {
+   "id": 31,
+   "god_name": "Neith",
+   "description": "A creator and hunter goddess, patron of the city of Sais in Lower Egypt",
+   "mythology": "Egyptian",
+   "godly_aspects": "creator",
+   "godly_aspects2": "hunter",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Neith.svg/1200px-Neith.svg.png"
+ },
+ {
+   "id": 32,
+   "god_name": "Nekhbet",
+   "description": "A vulture goddess, the tutelary deity of Upper Egypt",
+   "mythology": "Egyptian",
+   "godly_aspects": "protection",
+   "godly_aspects2": "kingship",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nekhbet_%28Goddess%29.png"
+ },
+ {
+   "id": 33,
+   "god_name": "Nephthys",
+   "description": "Goddess of air, head of family",
+   "mythology": "Egyptian",
+   "godly_aspects": "family",
+   "godly_aspects2": "air",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nepthys.svg/1200px-Nepthys.svg.png"
+ },
+ {
+   "id": 34,
+   "god_name": "Nepit ",
+   "description": " A goddess of grain, female counterpart of Neper",
+   "mythology": "Egyptian",
+   "godly_aspects": "agriculture",
+   "godly_aspects2": "",
+   "Img URL": "https://i0.wp.com/religer.org/wp-content/uploads/2022/10/Egyptian-Nepit-on-Religer.png?fit=512%2C704&ssl=1"
+ },
+ {
+   "id": 35,
+   "god_name": "Nut ",
+   "description": " A sky goddess, a member of the Ennead",
+   "mythology": "Egyptian",
+   "godly_aspects": "cosmos",
+   "godly_aspects2": "primordial",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nut.svg/1200px-Nut.svg.png"
+ },
+ {
+   "id": 36,
+   "god_name": "Renenutet ",
+   "description": "An agricultural goddess",
+   "mythology": "Egyptian",
+   "godly_aspects": "agriculture",
+   "godly_aspects2": "harvest",
+   "Img URL": "https://static.wikia.nocookie.net/gods-goddess/images/d/d2/Renenutet.jpg/revision/latest?cb=20140928222657"
+ },
+ {
+   "id": 37,
+   "god_name": "Satet ",
+   "description": "A goddess of Egypt's southern frontier regions",
+   "mythology": "Egyptian",
+   "godly_aspects": "war",
+   "godly_aspects2": "fertility",
+   "Img URL": "https://static.wikia.nocookie.net/gods_and_demons/images/e/e4/D64v9u-a863c0ea-9299-43f1-87ae-1dc9cc17b699.jpg/revision/latest?cb=20200910200058"
+ },
+ {
+   "id": 38,
+   "god_name": "Sekhmet ",
+   "description": " A lioness goddess, both destructive and violent and capable of warding off disease, protector of the pharaohs who led them in war, the consort of Ptah and one of many forms of the Eye of Ra.",
+   "mythology": "Egyptian",
+   "godly_aspects": "protection",
+   "godly_aspects2": "destruction",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sekhmet.svg/1200px-Sekhmet.svg.png"
+ },
+ {
+   "id": 39,
+   "god_name": "Tefnut ",
+   "description": "Lioness goddess of moisture and a member of the Ennead",
+   "mythology": "Egyptian",
+   "godly_aspects": "moisture",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Tefnut.png"
+ },
+ {
+   "id": 40,
+   "god_name": "Wadjet",
+   "description": " A cobra goddess, the tutelary deity of Lower Egypt",
+   "mythology": "Egyptian",
+   "godly_aspects": "protection",
+   "godly_aspects2": "kingship",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Wadjet_%28Deity%29.png"
+ },
+ {
+   "id": 41,
+   "god_name": "Aphrodite",
+   "description": "goddess of beauty, love, desire, and pleasure",
+   "mythology": "Greek",
+   "godly_aspects": "femininity",
+   "godly_aspects2": "desire",
+   "Img URL": "https://cdn.britannica.com/62/181762-050-5DC9A4C7/Venus-Genetrix-Roman-marble-copy-statue-Callimachus-c-475-bce.jpg"
+ },
+ {
+   "id": 42,
+   "god_name": "Apollo",
+   "description": "god of music, arts, knowledge, healing, plague, prophecy, poetry, manly beauty, and archery",
+   "mythology": "Greek",
+   "godly_aspects": "art",
+   "godly_aspects2": "hunter",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Italy-3104_-_Apollo_%285378415112%29.jpg/220px-Italy-3104_-_Apollo_%285378415112%29.jpg"
+ },
+ {
+   "id": 43,
+   "god_name": "Ares",
+   "description": "god of courage, war, bloodshed, and violence",
+   "mythology": "Greek",
+   "godly_aspects": "war",
+   "godly_aspects2": "violence",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ares_Ludovisi_Altemps_Inv8602_n2.jpg/800px-Ares_Ludovisi_Altemps_Inv8602_n2.jpg"
+ },
+ {
+   "id": 44,
+   "god_name": "Artemis",
+   "description": "virgin goddess of the hunt, wilderness, animals, the moon and young girls",
+   "mythology": "Greek",
+   "godly_aspects": "moon",
+   "godly_aspects2": "hunt",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Diana_of_Versailles.jpg"
+ },
+ {
+   "id": 45,
+   "god_name": "Athena",
+   "description": "goddess of reason, wisdom, intelligence, skill, peace, warfare, battle strategy, and handicrafts",
+   "mythology": "Greek",
+   "godly_aspects": "war",
+   "godly_aspects2": "knowledge",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mattei_Athena_Louvre_Ma530_n2.jpg/1200px-Mattei_Athena_Louvre_Ma530_n2.jpg"
+ },
+ {
+   "id": 46,
+   "god_name": "Demeter",
+   "description": "goddess of grain, agriculture, harvest, growth, and nourishment",
+   "mythology": "Greek",
+   "godly_aspects": "agriculture",
+   "godly_aspects2": "harvest",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Demeter_Altemps_Inv8546.jpg"
+ },
+ {
+   "id": 47,
+   "god_name": "Dionysus",
+   "description": "god of wine, fruitfulness, parties, festivals, madness, chaos, drunkenness, vegetation, ecstasy, and the theater",
+   "mythology": "Greek",
+   "godly_aspects": "wine",
+   "godly_aspects2": "parties",
+   "Img URL": "https://cdn.britannica.com/04/186604-050-980E8365/oil-Bacchus-canvas-Caravaggio-Florence-Italy-Uffizi.jpg"
+ },
+ {
+   "id": 48,
+   "god_name": "Hades",
+   "description": "god and king of the underworld and the dead",
+   "mythology": "Greek",
+   "godly_aspects": "underworld",
+   "godly_aspects2": "death",
+   "Img URL": "https://static.wikia.nocookie.net/gods_and_demons/images/d/d6/D317f73591e2565cc5617fc7d8f2c630.jpg/revision/latest?cb=20200813174647"
+ },
+ {
+   "id": 49,
+   "god_name": "Hephaestus",
+   "description": "god of fire, metalworking, and crafts",
+   "mythology": "Greek",
+   "godly_aspects": "crafts",
+   "godly_aspects2": "fire",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/5/53/Vulcan_Coustou_Louvre_MR1814.jpg"
+ },
+ {
+   "id": 50,
+   "god_name": "Hera",
+   "description": "queen of the gods, and goddess of marriage, women, childbirth, heirs, kings, and empires",
+   "mythology": "Greek",
+   "godly_aspects": "god queen",
+   "godly_aspects2": "marriage",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hera_Campana_Louvre_Ma2283.jpg/640px-Hera_Campana_Louvre_Ma2283.jpg"
+ },
+ {
+   "id": 51,
+   "god_name": "Hermes",
+   "description": "god of boundaries, travel, communication, trade, language, thieves and writing",
+   "mythology": "Greek",
+   "godly_aspects": "travel",
+   "godly_aspects2": "boundaries",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hermes_Ingenui_Pio-Clementino_Inv544.jpg"
+ },
+ {
+   "id": 52,
+   "god_name": "Hestia",
+   "description": "virgin goddess of the hearth, home, and chastity",
+   "mythology": "Greek",
+   "godly_aspects": "chastity",
+   "godly_aspects2": "home",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hestia_Giustiniani.jpg"
+ },
+ {
+   "id": 53,
+   "god_name": "Helios",
+   "description": "Sun god",
+   "mythology": "Greek",
+   "godly_aspects": "sun",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mengs%2C_Helios_als_Personifikation_des_Mittages.jpg/280px-Mengs%2C_Helios_als_Personifikation_des_Mittages.jpg"
+ },
+ {
+   "id": 54,
+   "god_name": "Poseidon",
+   "description": "god of the sea, rivers, floods, droughts, and earthquakes",
+   "mythology": "Greek",
+   "godly_aspects": "water",
+   "godly_aspects2": "earthquakes",
+   "Img URL": "https://www.greekmythology.com/images/mythology/poseidon_large_image_2.jpg"
+ },
+ {
+   "id": 55,
+   "god_name": "Zeus",
+   "description": "king of the gods, ruler of mount olympus, and god of the sky, weather, thunder, lightning, law, order, and justice",
+   "mythology": "Greek",
+   "godly_aspects": "god king",
+   "godly_aspects2": "sky",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg"
+ },
+ {
+   "id": 56,
+   "god_name": "Achlys",
+   "description": " goddess of poisons, and the personification of misery and sadness",
+   "mythology": "Greek",
+   "godly_aspects": "poison",
+   "godly_aspects2": "sadness",
+   "Img URL": "https://static.wikia.nocookie.net/greekgoddesses/images/8/8a/Capture.png/revision/latest?cb=20131216060553"
+ },
+ {
+   "id": 57,
+   "god_name": "Aether",
+   "description": "god of light and the upper atmosphere",
+   "mythology": "Greek",
+   "godly_aspects": "light",
+   "godly_aspects2": "atmosphere",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Aether_in_battle_with_a_lion-headed_Giant.jpg"
+ },
+ {
+   "id": 58,
+   "god_name": "Aion",
+   "description": " god of eternity, personifying cyclical and unbounded time",
+   "mythology": "Greek",
+   "godly_aspects": "eternity",
+   "godly_aspects2": "time",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Aion_mosaic_Glyptothek_Munich_W504.jpg"
+ },
+ {
+   "id": 59,
+   "god_name": "Ananke",
+   "description": " goddess of inevitability, compulsion, and necessity",
+   "mythology": "Greek",
+   "godly_aspects": "inevitability",
+   "godly_aspects2": "necessity",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Ananke_by_Platone.jpg"
+ },
+ {
+   "id": 60,
+   "god_name": "Chaos",
+   "description": "personification of nothingness from which all of existence sprang",
+   "mythology": "Greek",
+   "godly_aspects": "creator",
+   "godly_aspects2": "primordial",
+   "Img URL": "https://static.wikia.nocookie.net/lovecraft/images/b/b5/Daemon_Prince_%28Internet%29.jpg/revision/latest?cb=20191005231914"
+ },
+ {
+   "id": 61,
+   "god_name": "Chronos",
+   "description": " god of empirical time, sometimes equated with aion",
+   "mythology": "Greek",
+   "godly_aspects": "time",
+   "godly_aspects2": "primordial",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pierre_Mignard_%281610-1695%29_-_Time_Clipping_Cupid%27s_Wings_%281694%29.jpg/1200px-Pierre_Mignard_%281610-1695%29_-_Time_Clipping_Cupid%27s_Wings_%281694%29.jpg"
+ },
+ {
+   "id": 62,
+   "god_name": "Erebus",
+   "description": "god of darkness and shadow",
+   "mythology": "Greek",
+   "godly_aspects": "darkness",
+   "godly_aspects2": "primordial",
+   "Img URL": "https://static.wikia.nocookie.net/gods_and_demons/images/5/54/ErebosL.jpg/revision/latest?cb=20220316163922"
+ },
+ {
+   "id": 63,
+   "god_name": "Eros",
+   "description": "god of love and attraction",
+   "mythology": "Greek",
+   "godly_aspects": "attraction",
+   "godly_aspects2": "love",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Eros_Farnese_MAN_Napoli_6353.jpg"
+ },
+ {
+   "id": 64,
+   "god_name": "Gaia",
+   "description": "personification of the earth (mother earth); mother of the titans",
+   "mythology": "Greek",
+   "godly_aspects": "Earth god/goddess",
+   "godly_aspects2": "primordial",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Feuerbach_Gaea.jpg"
+ },
+ {
+   "id": 65,
+   "god_name": "Hemera",
+   "description": "goddess of day",
+   "mythology": "Greek",
+   "godly_aspects": "day",
+   "godly_aspects2": "",
+   "Img URL": "https://greekgodsandgoddesses.net/wp-content/uploads/2018/06/Hemera.jpg"
+ },
+ {
+   "id": 66,
+   "god_name": "Hypnos",
+   "description": "god of sleep",
+   "mythology": "Greek",
+   "godly_aspects": "sleep",
+   "godly_aspects2": "",
+   "Img URL": "https://www.theoi.com/image/N13.1Hypnos.jpg"
+ },
+ {
+   "id": 67,
+   "god_name": "Nemesis",
+   "description": "goddess of retribution",
+   "mythology": "Greek",
+   "godly_aspects": "vengeance",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/2/28/Statue_Nemesis_Louvre_Ma4873.jpg"
+ },
+ {
+   "id": 68,
+   "god_name": "Nesoi",
+   "description": "goddesses of islands",
+   "mythology": "Greek",
+   "godly_aspects": "islands",
+   "godly_aspects2": "",
+   "Img URL": "https://ancientgreecereloaded.com/blog/uploads/images/202012/image_750x_5fcbf8b0a40c6.jpg"
+ },
+ {
+   "id": 69,
+   "god_name": "Nyx",
+   "description": "goddess of night",
+   "mythology": "Greek",
+   "godly_aspects": "night",
+   "godly_aspects2": "",
+   "Img URL": "https://static.wikia.nocookie.net/gods_and_demons/images/9/94/Jeremy-chong-nyx-final-post.jpg/revision/latest?cb=20200720152238"
+ },
+ {
+   "id": 70,
+   "god_name": "Ourea",
+   "description": "gods of mountains",
+   "mythology": "Greek",
+   "godly_aspects": "mountains",
+   "godly_aspects2": "",
+   "Img URL": "https://greekgodsandgoddesses.net/wp-content/uploads/2018/06/Ourea.jpg"
+ },
+ {
+   "id": 71,
+   "god_name": "Tartarus",
+   "description": " god of the deepest, darkest part of the underworld, the tartarean pit (which is also referred to as tartarus itself)",
+   "mythology": "Greek",
+   "godly_aspects": "underworld",
+   "godly_aspects2": "primordial",
+   "Img URL": "https://static.wikia.nocookie.net/gods_and_demons/images/0/05/C8ab8006834a27d5dbe92c1ebbff43cfe914321br1-878-910v2_hq.jpg/revision/latest?cb=20200713141623"
+ },
+ {
+   "id": 72,
+   "god_name": "Thanatos",
+   "description": "god of death",
+   "mythology": "Greek",
+   "godly_aspects": "death",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Column_temple_Artemis_Ephesos_BM_Sc1206_n3.jpg"
+ },
+ {
+   "id": 73,
+   "god_name": "Uranus",
+   "description": "god of the heavens (father sky); father of the titans",
+   "mythology": "Greek",
+   "godly_aspects": "sky",
+   "godly_aspects2": "primordial",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Aion_mosaic_Glyptothek_Munich_W504.jpg"
+ },
+ {
+   "id": 74,
+   "god_name": "Morpheus",
+   "description": "god of dreaming",
+   "mythology": "Greek",
+   "godly_aspects": "dreams",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Restout_-_Morpheus.jpg"
+ },
+ {
+   "id": 75,
+   "god_name": "Nike",
+   "description": "goddess of victory",
+   "mythology": "Greek",
+   "godly_aspects": "victory",
+   "godly_aspects2": "",
+   "Img URL": "https://cdn.britannica.com/19/9819-050-394B49CF/sculpture-Nike-vessel-city-Greek-Italy-British.jpg"
+ },
+ {
+   "id": 76,
+   "god_name": "Kratos",
+   "description": "god of strength, might, power, and sovereign rule",
+   "mythology": "Greek",
+   "godly_aspects": "power",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/en/6/60/Kratos_PS4.jpg"
+ },
+ {
+   "id": 77,
+   "god_name": "Persephone",
+   "description": "goddess of agriculture",
+   "mythology": "Greek",
+   "godly_aspects": "agriculture",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/c/ce/AMI_-_Isis-Persephone.jpg"
+ },
+ {
+   "id": 78,
+   "god_name": "Aegir ",
+   "description": "Norse God of the sea. Married to Ran and lives under the waves near the island of Hlesey.",
+   "mythology": "Norse",
+   "godly_aspects": "water",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Molin5.jpg/220px-Molin5.jpg"
+ },
+ {
+   "id": 79,
+   "god_name": "Balder ",
+   "description": "Son of Odin and Frigg. Known as a gentle and wise god. Killed accidentally by his brother Hod. Will return after Ragnarok.",
+   "mythology": "Norse",
+   "godly_aspects": "wisdom",
+   "godly_aspects2": "",
+   "Img URL": "https://cdn.shopify.com/s/files/1/0142/5765/1776/files/Baldr-edit-400x578_11923436-3216-48c7-bb9a-b7e5d8c52175_large.jpg?v=1561070902"
+ },
+ {
+   "id": 80,
+   "god_name": "Bor ",
+   "description": " Son of Buri and father of Odin, Vili and Ve.",
+   "mythology": "Norse",
+   "godly_aspects": "primordial",
+   "godly_aspects2": "",
+   "Img URL": "https://ivaldisonsforge.com/cache/cache_image/3/37c2bc739d843a41e6d40f750541e195.png"
+ },
+ {
+   "id": 81,
+   "god_name": "Bragi ",
+   "description": "The Norse God of poetry and eloquence. Son of Odin and husband of Idun.",
+   "mythology": "Norse",
+   "godly_aspects": "art",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Idunn_and_Bragi_by_Blommer.jpg"
+ },
+ {
+   "id": 82,
+   "god_name": "Buri ",
+   "description": "Ancestor of the Norse gods. Created by the cow Audmula licking him from ice.",
+   "mythology": "Norse",
+   "godly_aspects": "primordial",
+   "godly_aspects2": "",
+   "Img URL": "https://static.wikia.nocookie.net/the-demonic-paradise/images/4/45/9a6b81bb0b2ea0a2b853ade7312e30f2.jpg/revision/latest?cb=20200530231749"
+ },
+ {
+   "id": 83,
+   "god_name": "Day ",
+   "description": "Son of Night and Delling. Said to ride around the earth on his horse Skinfaxi.",
+   "mythology": "Norse",
+   "godly_aspects": "day",
+   "godly_aspects2": "",
+   "Img URL": "https://berloga-workshop.com/upload/userfiles/Viking%20gods/Dagr/2.jpg"
+ },
+ {
+   "id": 84,
+   "god_name": "Earth ",
+   "description": "Daughter of Night and Annar.",
+   "mythology": "Norse",
+   "godly_aspects": "Earth god/goddess",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Geb_-_God_of_the_Earth.svg/226px-Geb_-_God_of_the_Earth.svg.png"
+ },
+ {
+   "id": 85,
+   "god_name": "Eir ",
+   "description": "Goddess of healing",
+   "mythology": "Norse",
+   "godly_aspects": "healing",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mengl%C3%B6%C3%B0_and_Nine_Maidens_by_Froelich.jpg/300px-Mengl%C3%B6%C3%B0_and_Nine_Maidens_by_Froelich.jpg"
+ },
+ {
+   "id": 86,
+   "god_name": "Forseti ",
+   "description": "God of Justice. Son of Balder and Nanna.",
+   "mythology": "Norse",
+   "godly_aspects": "judgement",
+   "godly_aspects2": "",
+   "Img URL": "https://mythologysource.com/wp-content/uploads/2020/11/forseti.png"
+ },
+ {
+   "id": 87,
+   "god_name": "Freyja ",
+   "description": "Main goddess of the Vanir (fertility gods). Daughter of Njord and sister of Freyr.",
+   "mythology": "Norse",
+   "godly_aspects": "god queen",
+   "godly_aspects2": "fertility",
+   "Img URL": "https://static.wikia.nocookie.net/gods_and_demons/images/9/90/Freya_by_irenhorrors_dcc5lfn-fullview.jpg/revision/latest?cb=20210926050030"
+ },
+ {
+   "id": 88,
+   "god_name": "Freyr ",
+   "description": "Important god of the Vanir. Son of Njord and brother of Freyja.",
+   "mythology": "Norse",
+   "godly_aspects": "fertility",
+   "godly_aspects2": "",
+   "Img URL": "https://static.wikia.nocookie.net/gods_and_demons/images/d/de/Frey.jpg/revision/latest?cb=20210910010548"
+ },
+ {
+   "id": 89,
+   "god_name": "Frigga ",
+   "description": "Main goddess. Wife of Odin and mother of Balder.",
+   "mythology": "Norse",
+   "godly_aspects": "god queen",
+   "godly_aspects2": "",
+   "Img URL": "https://www.ancient-origins.net/sites/default/files/field/image/queen-Frigg.jpg"
+ },
+ {
+   "id": 90,
+   "god_name": "Gefion ",
+   "description": "Fertility goddess. Associated with the plow. Tricked the king of Sweden out of a tract of his land.",
+   "mythology": "Norse",
+   "godly_aspects": "fertility",
+   "godly_aspects2": "",
+   "Img URL": "https://miro.medium.com/max/1200/1*t_pe5iiaEeFf7q8sWT7gQw.png"
+ },
+ {
+   "id": 91,
+   "god_name": "Heimdall ",
+   "description": " Watchman of the Norse gods and owner of the horn Gjall. Son of nine mothers. Often identified with Rig, the creator of three races of men.",
+   "mythology": "Norse",
+   "godly_aspects": "creator",
+   "godly_aspects2": "",
+   "Img URL": "https://www.worldhistory.org/img/r/p/500x600/13574.jpg?v=1616516106"
+ },
+ {
+   "id": 92,
+   "god_name": "Hel ",
+   "description": " ruler of Helheim, the realm of the dead",
+   "mythology": "Norse",
+   "godly_aspects": "underworld",
+   "godly_aspects2": "",
+   "Img URL": "https://static.wikia.nocookie.net/darkpictures/images/4/4f/Hel_-_Goddess_of_the_Dead.jpg/revision/latest?cb=20200722025743"
+ },
+ {
+   "id": 93,
+   "god_name": "Idun ",
+   "description": "Guardian of the golden apples of youth",
+   "mythology": "Norse",
+   "godly_aspects": "youth",
+   "godly_aspects2": "",
+   "Img URL": "https://www.worldhistory.org/img/r/p/500x600/14599.jpg?v=1639805401"
+ },
+ {
+   "id": 94,
+   "god_name": "Kvasir ",
+   "description": "the wisest. Created from the spittle of the gods.",
+   "mythology": "Norse",
+   "godly_aspects": "wisdom",
+   "godly_aspects2": "",
+   "Img URL": "https://norse-mythology.org/wp-content/uploads/2018/07/Kvasir.jpg"
+ },
+ {
+   "id": 95,
+   "god_name": "Lofn ",
+   "description": "Goddess of ilicit unions.",
+   "mythology": "Norse",
+   "godly_aspects": "infidelity",
+   "godly_aspects2": "",
+   "Img URL": "https://static.wikia.nocookie.net/almightyjohnsons/images/3/3d/Lofn.jpg/revision/latest?cb=20161014200538"
+ },
+ {
+   "id": 96,
+   "god_name": "Loki ",
+   "description": " The sly, trickster of the Norse gods. Son of two giants. Also known as the Sly One, the Trickster, the Shape Changer and the Sky Traveller. Becomes increasingly more evil. He is responsible for the death of Balder. Bound until Ragnarok.",
+   "mythology": "Norse",
+   "godly_aspects": "trickster",
+   "godly_aspects2": "",
+   "Img URL": "https://static.wikia.nocookie.net/muc/images/d/d6/Loki.jpeg/revision/latest?cb=20180710153613"
+ },
+ {
+   "id": 97,
+   "god_name": "Mimir ",
+   "description": " Wise Aesir god. Sent to the Vanir to seal the truce between the two groups of the Norse gods. Killed by the Vanir, his head is kept by Odin.",
+   "mythology": "Norse",
+   "godly_aspects": "wisdom",
+   "godly_aspects2": "knowledge",
+   "Img URL": "https://static.wikia.nocookie.net/p__/images/7/7d/773c92445688c0a44ae2d691f1da2403.jpg/revision/latest?cb=20190306134246&path-prefix=protagonist"
+ },
+ {
+   "id": 98,
+   "god_name": "Modgud ",
+   "description": "Maiden guardian of the bridge over the river Gjoll in Jotenheim.",
+   "mythology": "Norse",
+   "godly_aspects": "protection",
+   "godly_aspects2": "",
+   "Img URL": "https://i.pinimg.com/originals/c0/07/5e/c0075ec9f6355092a47f96c67761b3c8.jpg"
+ },
+ {
+   "id": 99,
+   "god_name": "Moon ",
+   "description": "Son of Mundilfari. Guides the moon on it’s course.",
+   "mythology": "Norse",
+   "godly_aspects": "moon",
+   "godly_aspects2": "",
+   "Img URL": "https://static.tvtropes.org/pmwiki/pub/images/lunar_celestial_liesel.png"
+ },
+ {
+   "id": 100,
+   "god_name": "Night ",
+   "description": "Daughter of Narvi and mother of Day. Rides around the earth on her horse Hrimfaxi.",
+   "mythology": "Norse",
+   "godly_aspects": "night",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/d/db/Peter_Nicolai_Arbo_-_Natten_-_Nasjonalmuseet_-_NG.M.03666.jpg"
+ },
+ {
+   "id": 101,
+   "god_name": "Njord ",
+   "description": "A Vanir god associated with wind and sea. Husband of Skadi and father of Freyja and Freyr.",
+   "mythology": "Norse",
+   "godly_aspects": "water",
+   "godly_aspects2": "air",
+   "Img URL": "https://cdn.shopify.com/s/files/1/0579/6426/5517/articles/njord_1600x.jpg?v=1651923587"
+ },
+ {
+   "id": 102,
+   "god_name": "Norns ",
+   "description": " Urd “fate”, Skuld “being” and Verandi “necessity”. Three goddesses of destiny.",
+   "mythology": "Norse",
+   "godly_aspects": "destiny",
+   "godly_aspects2": "",
+   "Img URL": "https://cdn.shopify.com/s/files/1/0078/0530/4890/files/received_373759250199355_large.jpeg?v=1561606214"
+ },
+ {
+   "id": 103,
+   "god_name": "Odin ",
+   "description": " King of the Norse Gods, God of poetry, battle and death. Chief god of the Aesir. Also known as the “all father”, the “terrible one”",
+   "mythology": "Norse",
+   "godly_aspects": "god king",
+   "godly_aspects2": "battle",
+   "Img URL": "http://cdn.shopify.com/s/files/1/1879/3511/articles/odin_mythology_ravens_gods_paganism_1024x1024.jpg?v=1560932544"
+ },
+ {
+   "id": 104,
+   "god_name": "Sjofn ",
+   "description": "Goddess of human passion.",
+   "mythology": "Norse",
+   "godly_aspects": "desire",
+   "godly_aspects2": "",
+   "Img URL": "https://static.wikia.nocookie.net/mythology/images/e/ee/Sj%C3%B6fn%2C_Goddess_of_Love.jpg/revision/latest?cb=20170115221002"
+ },
+ {
+   "id": 105,
+   "god_name": "Skadi ",
+   "description": "Goddess of Winter and of the Hunt",
+   "mythology": "Norse",
+   "godly_aspects": "winter",
+   "godly_aspects2": "hunt",
+   "Img URL": "https://static.wikia.nocookie.net/smite_gamepedia/images/5/58/SkinArt_Skadi_Default.jpg/revision/latest/scale-to-width-down/250?cb=20160310005547"
+ },
+ {
+   "id": 106,
+   "god_name": "Sun ",
+   "description": "Daughter of Mundilfari and guide of the sun.",
+   "mythology": "Norse",
+   "godly_aspects": "sun",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sun_god_Ra.svg/130px-Sun_god_Ra.svg.png"
+ },
+ {
+   "id": 107,
+   "god_name": "Syn ",
+   "description": "Goddess of the accused at trial.",
+   "mythology": "Norse",
+   "godly_aspects": "judgement",
+   "godly_aspects2": "",
+   "Img URL": "https://surflegacy.net/wp-content/uploads/2022/05/syn-goddess-1200x1200.png"
+ },
+ {
+   "id": 108,
+   "god_name": "Thor ",
+   "description": " God of Sky, thunder and fertility. Associated with law and order in Asgard and guardian of the Norse gods. Son of Odin and Earth and husband of Sif. Also known as the “thunder god” and “charioteer”.",
+   "mythology": "Norse",
+   "godly_aspects": "sky",
+   "godly_aspects2": "judgement",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/c/c5/M%C3%A5rten_Eskil_Winge_-_Tor%27s_Fight_with_the_Giants_-_Google_Art_Project.jpg"
+ },
+ {
+   "id": 109,
+   "god_name": "Tyr ",
+   "description": "War god. Son of Odin who sacrificed his hand in the binding of Fenrir.",
+   "mythology": "Norse",
+   "godly_aspects": "war",
+   "godly_aspects2": "",
+   "Img URL": "https://thenorsegods.com/wp-content/uploads/2008/09/tyr.jpg"
+ },
+ {
+   "id": 110,
+   "god_name": "Ull ",
+   "description": "God of archery and skiing.",
+   "mythology": "Norse",
+   "godly_aspects": "skiing",
+   "godly_aspects2": "hunt",
+   "Img URL": "https://static.wikia.nocookie.net/dungeonsdragons/images/c/cc/Uller_p197.jpg/revision/latest?cb=20191025173549"
+ },
+ {
+   "id": 111,
+   "god_name": "Vali ",
+   "description": "Son of Odin and the giantess Rind. Conceived to avenge the death of Balder.",
+   "mythology": "Norse",
+   "godly_aspects": "vengeance",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Wali_by_C._E._Doepler.jpg"
+ },
+ {
+   "id": 112,
+   "god_name": "Var ",
+   "description": "Goddess of marriage oaths.",
+   "mythology": "Norse",
+   "godly_aspects": "marriage",
+   "godly_aspects2": "",
+   "Img URL": "https://lh3.googleusercontent.com/-i-vvm8KZszE/TopqvCpwI0I/AAAAAAAACDk/C6vcslt9OeM/Goddess%252520Var.jpg"
+ },
+ {
+   "id": 113,
+   "god_name": "Vidar ",
+   "description": "Son of Odin and the giantess Grid who will avenge Odin’s death after Ragnarok.",
+   "mythology": "Norse",
+   "godly_aspects": "vengeance",
+   "godly_aspects2": "",
+   "Img URL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vidar_by_Collingwood.jpg"
+ },
+ {
+   "id": 114,
+   "god_name": "Vor ",
+   "description": "Goddess who knows all.",
+   "mythology": "Norse",
+   "godly_aspects": "wisdom",
+   "godly_aspects2": "knowledge",
+   "Img URL": "https://cdna.artstation.com/p/assets/images/images/014/160/190/large/anastasia-vor-god-is-a-woman.jpg?1542741190"
+ }
+]
