@@ -1,7 +1,7 @@
 [
  {
    "id": 1,
-   "god_name": "Aker ",
+   "god_name": "Aker",
    "description": "A god of the earth and the horizon",
    "mythology": "Egyptian",
    "godly_aspects": "earth",
@@ -10,7 +10,7 @@
  },
  {
    "id": 2,
-   "god_name": "Amun ",
+   "god_name": "Amun",
    "description": " A creator god, god of air",
    "mythology": "Egyptian",
    "godly_aspects": "creator",
@@ -56,7 +56,7 @@
  {
    "id": 7,
    "god_name": "Geb",
-   "description": "An earth god and member of the Ennead",
+   "description": "An earth god and member of the Ennead",
    "mythology": "Egyptian",
    "godly_aspects": "Earth god/goddess",
    "godly_aspects2": "primordial",
@@ -65,7 +65,7 @@
  {
    "id": 8,
    "god_name": "Hapi",
-   "description": "Personification of the Nile flood",
+   "description": "Personification of the Nile flood",
    "mythology": "Egyptian",
    "godly_aspects": "water",
    "godly_aspects2": "flooding",
@@ -83,7 +83,7 @@
  {
    "id": 10,
    "god_name": "Khepri",
-   "description": "A solar creator god, often treated as the morning form of Ra and represented by a scarab beetle",
+   "description": "A solar creator god, often treated as the morning form of Ra and represented by a scarab beetle",
    "mythology": "Egyptian",
    "godly_aspects": "creator",
    "godly_aspects2": "sun",
@@ -91,8 +91,8 @@
  },
  {
    "id": 11,
-   "god_name": "Khnum ",
-   "description": " A ram god, the patron deity of Elephantine, who was said to control the Nile flood and give life to gods and humans",
+   "god_name": "Khnum",
+   "description": " A ram god, the patron deity of Elephantine, who was said to control the Nile flood and give life to gods and humans",
    "mythology": "Egyptian",
    "godly_aspects": "water",
    "godly_aspects2": "birth",
@@ -119,7 +119,7 @@
  {
    "id": 14,
    "god_name": "Nemty",
-   "description": "Falcon god, worshipped in Middle Egypt, who appears in myth as a ferryman for greater gods",
+   "description": "Falcon god, worshipped in Middle Egypt, who appears in myth as a ferryman for greater gods",
    "mythology": "Egyptian",
    "godly_aspects": "ferryman",
    "godly_aspects2": "",
@@ -182,7 +182,7 @@
  {
    "id": 21,
    "god_name": "Sobek",
-   "description": "Crocodile god, worshipped in the Faiyum and at Kom Ombo",
+   "description": "Crocodile god, worshipped in the Faiyum and at Kom Ombo",
    "mythology": "Egyptian",
    "godly_aspects": "crocodiles",
    "godly_aspects2": "",
@@ -200,7 +200,7 @@
  {
    "id": 23,
    "god_name": "Thoth",
-   "description": "A moon god, and a god of writing and scribes, and patron deity of Hermopolis",
+   "description": "A moon god, and a god of writing and scribes, and patron deity of Hermopolis",
    "mythology": "Egyptian",
    "godly_aspects": "moon",
    "godly_aspects2": "knowledge",
@@ -218,7 +218,7 @@
  {
    "id": 25,
    "god_name": "Bastet",
-   "description": "Goddess represented as a cat or lioness, patroness of the city of Bubastis, linked with protection from evil",
+   "description": "Goddess represented as a cat or lioness, patroness of the city of Bubastis, linked with protection from evil",
    "mythology": "Egyptian",
    "godly_aspects": "protection",
    "godly_aspects2": "kingship",
@@ -227,7 +227,7 @@
  {
    "id": 26,
    "god_name": "Hathor",
-   "description": " One of the most important goddesses, linked with the sky, the sun, sexuality and motherhood, music and dance, foreign lands and goods, and the afterlife. One of many forms of the Eye of Ra.",
+   "description": " One of the most important goddesses, linked with the sky, the sun, sexuality and motherhood, music and dance, foreign lands and goods, and the afterlife. One of many forms of the Eye of Ra.",
    "mythology": "Egyptian",
    "godly_aspects": "femininity",
    "godly_aspects2": "afterlife",
@@ -254,7 +254,7 @@
  {
    "id": 29,
    "god_name": "Isis",
-   "description": "Wife of Osiris and mother of Horus, linked with funerary rites, motherhood, protection, and magic. She became a major deity in Greek and Roman religion.",
+   "description": "Wife of Osiris and mother of Horus, linked with funerary rites, motherhood, protection, and magic. She became a major deity in Greek and Roman religion.",
    "mythology": "Egyptian",
    "godly_aspects": "protection",
    "godly_aspects2": "magic",
@@ -272,7 +272,7 @@
  {
    "id": 31,
    "god_name": "Neith",
-   "description": "A creator and hunter goddess, patron of the city of Sais in Lower Egypt",
+   "description": "A creator and hunter goddess, patron of the city of Sais in Lower Egypt",
    "mythology": "Egyptian",
    "godly_aspects": "creator",
    "godly_aspects2": "hunter",
@@ -281,7 +281,7 @@
  {
    "id": 32,
    "god_name": "Nekhbet",
-   "description": "A vulture goddess, the tutelary deity of Upper Egypt",
+   "description": "A vulture goddess, the tutelary deity of Upper Egypt",
    "mythology": "Egyptian",
    "godly_aspects": "protection",
    "godly_aspects2": "kingship",
@@ -298,7 +298,7 @@
  },
  {
    "id": 34,
-   "god_name": "Nepit ",
+   "god_name": "Nepit",
    "description": " A goddess of grain, female counterpart of Neper",
    "mythology": "Egyptian",
    "godly_aspects": "agriculture",
@@ -307,7 +307,7 @@
  },
  {
    "id": 35,
-   "god_name": "Nut ",
+   "god_name": "Nut",
    "description": " A sky goddess, a member of the Ennead",
    "mythology": "Egyptian",
    "godly_aspects": "cosmos",
@@ -316,7 +316,7 @@
  },
  {
    "id": 36,
-   "god_name": "Renenutet ",
+   "god_name": "Renenutet",
    "description": "An agricultural goddess",
    "mythology": "Egyptian",
    "godly_aspects": "agriculture",
@@ -325,7 +325,7 @@
  },
  {
    "id": 37,
-   "god_name": "Satet ",
+   "god_name": "Satet",
    "description": "A goddess of Egypt's southern frontier regions",
    "mythology": "Egyptian",
    "godly_aspects": "war",
@@ -334,8 +334,8 @@
  },
  {
    "id": 38,
-   "god_name": "Sekhmet ",
-   "description": " A lioness goddess, both destructive and violent and capable of warding off disease, protector of the pharaohs who led them in war, the consort of Ptah and one of many forms of the Eye of Ra.",
+   "god_name": "Sekhmet",
+   "description": " A lioness goddess, both destructive and violent and capable of warding off disease, protector of the pharaohs who led them in war, the consort of Ptah and one of many forms of the Eye of Ra.",
    "mythology": "Egyptian",
    "godly_aspects": "protection",
    "godly_aspects2": "destruction",
@@ -343,7 +343,7 @@
  },
  {
    "id": 39,
-   "god_name": "Tefnut ",
+   "god_name": "Tefnut",
    "description": "Lioness goddess of moisture and a member of the Ennead",
    "mythology": "Egyptian",
    "godly_aspects": "moisture",
@@ -694,7 +694,7 @@
  },
  {
    "id": 78,
-   "god_name": "Aegir ",
+   "god_name": "Aegir",
    "description": "Norse God of the sea. Married to Ran and lives under the waves near the island of Hlesey.",
    "mythology": "Norse",
    "godly_aspects": "water",
@@ -703,7 +703,7 @@
  },
  {
    "id": 79,
-   "god_name": "Balder ",
+   "god_name": "Balder",
    "description": "Son of Odin and Frigg. Known as a gentle and wise god. Killed accidentally by his brother Hod. Will return after Ragnarok.",
    "mythology": "Norse",
    "godly_aspects": "wisdom",
@@ -712,7 +712,7 @@
  },
  {
    "id": 80,
-   "god_name": "Bor ",
+   "god_name": "Bor",
    "description": " Son of Buri and father of Odin, Vili and Ve.",
    "mythology": "Norse",
    "godly_aspects": "primordial",
@@ -721,7 +721,7 @@
  },
  {
    "id": 81,
-   "god_name": "Bragi ",
+   "god_name": "Bragi",
    "description": "The Norse God of poetry and eloquence. Son of Odin and husband of Idun.",
    "mythology": "Norse",
    "godly_aspects": "art",
@@ -730,7 +730,7 @@
  },
  {
    "id": 82,
-   "god_name": "Buri ",
+   "god_name": "Buri",
    "description": "Ancestor of the Norse gods. Created by the cow Audmula licking him from ice.",
    "mythology": "Norse",
    "godly_aspects": "primordial",
@@ -739,7 +739,7 @@
  },
  {
    "id": 83,
-   "god_name": "Day ",
+   "god_name": "Day",
    "description": "Son of Night and Delling. Said to ride around the earth on his horse Skinfaxi.",
    "mythology": "Norse",
    "godly_aspects": "day",
@@ -748,7 +748,7 @@
  },
  {
    "id": 84,
-   "god_name": "Earth ",
+   "god_name": "Earth",
    "description": "Daughter of Night and Annar.",
    "mythology": "Norse",
    "godly_aspects": "Earth god/goddess",
@@ -757,7 +757,7 @@
  },
  {
    "id": 85,
-   "god_name": "Eir ",
+   "god_name": "Eir",
    "description": "Goddess of healing",
    "mythology": "Norse",
    "godly_aspects": "healing",
@@ -766,7 +766,7 @@
  },
  {
    "id": 86,
-   "god_name": "Forseti ",
+   "god_name": "Forseti",
    "description": "God of Justice. Son of Balder and Nanna.",
    "mythology": "Norse",
    "godly_aspects": "judgement",
@@ -775,7 +775,7 @@
  },
  {
    "id": 87,
-   "god_name": "Freyja ",
+   "god_name": "Freyja",
    "description": "Main goddess of the Vanir (fertility gods). Daughter of Njord and sister of Freyr.",
    "mythology": "Norse",
    "godly_aspects": "god queen",
@@ -784,7 +784,7 @@
  },
  {
    "id": 88,
-   "god_name": "Freyr ",
+   "god_name": "Freyr",
    "description": "Important god of the Vanir. Son of Njord and brother of Freyja.",
    "mythology": "Norse",
    "godly_aspects": "fertility",
@@ -793,7 +793,7 @@
  },
  {
    "id": 89,
-   "god_name": "Frigga ",
+   "god_name": "Frigga",
    "description": "Main goddess. Wife of Odin and mother of Balder.",
    "mythology": "Norse",
    "godly_aspects": "god queen",
@@ -802,7 +802,7 @@
  },
  {
    "id": 90,
-   "god_name": "Gefion ",
+   "god_name": "Gefion",
    "description": "Fertility goddess. Associated with the plow. Tricked the king of Sweden out of a tract of his land.",
    "mythology": "Norse",
    "godly_aspects": "fertility",
@@ -811,7 +811,7 @@
  },
  {
    "id": 91,
-   "god_name": "Heimdall ",
+   "god_name": "Heimdall",
    "description": " Watchman of the Norse gods and owner of the horn Gjall. Son of nine mothers. Often identified with Rig, the creator of three races of men.",
    "mythology": "Norse",
    "godly_aspects": "creator",
@@ -820,7 +820,7 @@
  },
  {
    "id": 92,
-   "god_name": "Hel ",
+   "god_name": "Hel",
    "description": " ruler of Helheim, the realm of the dead",
    "mythology": "Norse",
    "godly_aspects": "underworld",
@@ -829,7 +829,7 @@
  },
  {
    "id": 93,
-   "god_name": "Idun ",
+   "god_name": "Idun",
    "description": "Guardian of the golden apples of youth",
    "mythology": "Norse",
    "godly_aspects": "youth",
@@ -838,7 +838,7 @@
  },
  {
    "id": 94,
-   "god_name": "Kvasir ",
+   "god_name": "Kvasir",
    "description": "the wisest. Created from the spittle of the gods.",
    "mythology": "Norse",
    "godly_aspects": "wisdom",
@@ -847,7 +847,7 @@
  },
  {
    "id": 95,
-   "god_name": "Lofn ",
+   "god_name": "Lofn",
    "description": "Goddess of ilicit unions.",
    "mythology": "Norse",
    "godly_aspects": "infidelity",
@@ -856,7 +856,7 @@
  },
  {
    "id": 96,
-   "god_name": "Loki ",
+   "god_name": "Loki",
    "description": " The sly, trickster of the Norse gods. Son of two giants. Also known as the Sly One, the Trickster, the Shape Changer and the Sky Traveller. Becomes increasingly more evil. He is responsible for the death of Balder. Bound until Ragnarok.",
    "mythology": "Norse",
    "godly_aspects": "trickster",
@@ -865,7 +865,7 @@
  },
  {
    "id": 97,
-   "god_name": "Mimir ",
+   "god_name": "Mimir",
    "description": " Wise Aesir god. Sent to the Vanir to seal the truce between the two groups of the Norse gods. Killed by the Vanir, his head is kept by Odin.",
    "mythology": "Norse",
    "godly_aspects": "wisdom",
@@ -874,7 +874,7 @@
  },
  {
    "id": 98,
-   "god_name": "Modgud ",
+   "god_name": "Modgud",
    "description": "Maiden guardian of the bridge over the river Gjoll in Jotenheim.",
    "mythology": "Norse",
    "godly_aspects": "protection",
@@ -883,8 +883,8 @@
  },
  {
    "id": 99,
-   "god_name": "Moon ",
-   "description": "Son of Mundilfari. Guides the moon on it’s course.",
+   "god_name": "Moon",
+   "description": "Son of Mundilfari. Guides the moon on it's course.",
    "mythology": "Norse",
    "godly_aspects": "moon",
    "godly_aspects2": "",
@@ -892,7 +892,7 @@
  },
  {
    "id": 100,
-   "god_name": "Night ",
+   "god_name": "Night",
    "description": "Daughter of Narvi and mother of Day. Rides around the earth on her horse Hrimfaxi.",
    "mythology": "Norse",
    "godly_aspects": "night",
@@ -901,7 +901,7 @@
  },
  {
    "id": 101,
-   "god_name": "Njord ",
+   "god_name": "Njord",
    "description": "A Vanir god associated with wind and sea. Husband of Skadi and father of Freyja and Freyr.",
    "mythology": "Norse",
    "godly_aspects": "water",
@@ -910,7 +910,7 @@
  },
  {
    "id": 102,
-   "god_name": "Norns ",
+   "god_name": "Norns",
    "description": " Urd “fate”, Skuld “being” and Verandi “necessity”. Three goddesses of destiny.",
    "mythology": "Norse",
    "godly_aspects": "destiny",
@@ -919,7 +919,7 @@
  },
  {
    "id": 103,
-   "god_name": "Odin ",
+   "god_name": "Odin",
    "description": " King of the Norse Gods, God of poetry, battle and death. Chief god of the Aesir. Also known as the “all father”, the “terrible one”",
    "mythology": "Norse",
    "godly_aspects": "god king",
@@ -928,7 +928,7 @@
  },
  {
    "id": 104,
-   "god_name": "Sjofn ",
+   "god_name": "Sjofn",
    "description": "Goddess of human passion.",
    "mythology": "Norse",
    "godly_aspects": "desire",
@@ -937,7 +937,7 @@
  },
  {
    "id": 105,
-   "god_name": "Skadi ",
+   "god_name": "Skadi",
    "description": "Goddess of Winter and of the Hunt",
    "mythology": "Norse",
    "godly_aspects": "winter",
@@ -946,7 +946,7 @@
  },
  {
    "id": 106,
-   "god_name": "Sun ",
+   "god_name": "Sun",
    "description": "Daughter of Mundilfari and guide of the sun.",
    "mythology": "Norse",
    "godly_aspects": "sun",
@@ -955,7 +955,7 @@
  },
  {
    "id": 107,
-   "god_name": "Syn ",
+   "god_name": "Syn",
    "description": "Goddess of the accused at trial.",
    "mythology": "Norse",
    "godly_aspects": "judgement",
@@ -964,7 +964,7 @@
  },
  {
    "id": 108,
-   "god_name": "Thor ",
+   "god_name": "Thor",
    "description": " God of Sky, thunder and fertility. Associated with law and order in Asgard and guardian of the Norse gods. Son of Odin and Earth and husband of Sif. Also known as the “thunder god” and “charioteer”.",
    "mythology": "Norse",
    "godly_aspects": "sky",
@@ -973,7 +973,7 @@
  },
  {
    "id": 109,
-   "god_name": "Tyr ",
+   "god_name": "Tyr",
    "description": "War god. Son of Odin who sacrificed his hand in the binding of Fenrir.",
    "mythology": "Norse",
    "godly_aspects": "war",
@@ -982,7 +982,7 @@
  },
  {
    "id": 110,
-   "god_name": "Ull ",
+   "god_name": "Ull",
    "description": "God of archery and skiing.",
    "mythology": "Norse",
    "godly_aspects": "skiing",
@@ -991,7 +991,7 @@
  },
  {
    "id": 111,
-   "god_name": "Vali ",
+   "god_name": "Vali",
    "description": "Son of Odin and the giantess Rind. Conceived to avenge the death of Balder.",
    "mythology": "Norse",
    "godly_aspects": "vengeance",
@@ -1000,7 +1000,7 @@
  },
  {
    "id": 112,
-   "god_name": "Var ",
+   "god_name": "Var",
    "description": "Goddess of marriage oaths.",
    "mythology": "Norse",
    "godly_aspects": "marriage",
@@ -1009,8 +1009,8 @@
  },
  {
    "id": 113,
-   "god_name": "Vidar ",
-   "description": "Son of Odin and the giantess Grid who will avenge Odin’s death after Ragnarok.",
+   "god_name": "Vidar",
+   "description": "Son of Odin and the giantess Grid who will avenge Odin's death after Ragnarok.",
    "mythology": "Norse",
    "godly_aspects": "vengeance",
    "godly_aspects2": "",
@@ -1018,7 +1018,7 @@
  },
  {
    "id": 114,
-   "god_name": "Vor ",
+   "god_name": "Vor",
    "description": "Goddess who knows all.",
    "mythology": "Norse",
    "godly_aspects": "wisdom",
