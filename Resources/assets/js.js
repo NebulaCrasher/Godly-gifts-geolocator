@@ -132,8 +132,8 @@
     var chartConfig3 = {
       type: "", 
       renderAt: "", 
-      //width: "900", //width of the chart
-      //height: "650", //height of the chart
+      width: "900", //width of the chart
+      height: "650", //height of the chart
       dataFormat: "json", 
       dataSource: {
         chart: {
