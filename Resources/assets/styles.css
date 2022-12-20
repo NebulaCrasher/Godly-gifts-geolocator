@@ -1,0 +1,43 @@
+.text-center {
+    text-align: center;
+  }
+
+.group-names-container {
+    color: rgb(8, 22, 48);
+    font-family: 'sans-serif';
+    text-align: center;
+    font-size: 12px;
+    }
+
+h1 {
+    color: rgb(27, 24, 219);
+    font-family: 'sans-serif';
+    text-align: center;
+    font-size: 40px;
+    }
+
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map, body, html {
+  height: 100%;
+}
+
+*::after {
+    box-sizing: border-box;
+  }
+
+hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+
+element.style {
+    color: rgb(27, 24, 219);
+    font-family: 'sans-serif';
+    text-align: center;
+    }
