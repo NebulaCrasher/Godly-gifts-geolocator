@@ -3,17 +3,29 @@
       {
         id: "143",
         value: "-1500",
+<<<<<<< HEAD
         link: "greek_index.html"
+=======
+        link: "./greece_index.html"
+>>>>>>> 852173ee9b34800617efe1fe021422424806a4df
       },
       {
         id: "158",
         value: "-500",
+<<<<<<< HEAD
         link: "norse_index.html"
+=======
+        link: "./norse_index.html"
+>>>>>>> 852173ee9b34800617efe1fe021422424806a4df
       },
       {
         id: "53",
         value: "-700",
+<<<<<<< HEAD
         link: "egypt_index.html"
+=======
+        link: "./egypt_index.html"
+>>>>>>> 852173ee9b34800617efe1fe021422424806a4df
       }
     ];
   
@@ -41,9 +53,15 @@
 
     var chartConfig = {
       type: "", 
+<<<<<<< HEAD
       renderAt: "",
       width: "400",
       height: "260",  
+=======
+      renderAt: "", 
+      width: "500", //width of the chart
+      height: "280", //height of the chart
+>>>>>>> 852173ee9b34800617efe1fe021422424806a4df
       dataFormat: "json", 
       dataSource: {
         chart: {
@@ -115,9 +133,15 @@
 
     var chartConfig2 = {
       type: "", 
+<<<<<<< HEAD
       renderAt: "",
       width: "400",
       height: "260", 
+=======
+      renderAt: "", 
+      width: "500", //width of the chart
+      height: "280", //height of the chart
+>>>>>>> 852173ee9b34800617efe1fe021422424806a4df
       dataFormat: "json", 
       dataSource: {
         chart: {
@@ -189,7 +213,7 @@
   
       function renderLine(){
         chartConfig.type = 'gantt';   	
-          chartConfig.renderAt = 'line-chart-container';        
+          chartConfig.renderAt = 'timeline-chart-container';        
         var fusioncharts = new FusionCharts(chartConfig);
         fusioncharts.render();
       }    

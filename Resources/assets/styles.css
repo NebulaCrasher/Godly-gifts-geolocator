@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+<<<<<<< HEAD
 p.card-text:first-letter {
   text-transform:uppercase;
 }
@@ -19,6 +20,14 @@ h2 {
 	font-family: papyrus, cursive;
 	font-size: 30px;
 }
+=======
+.group-names-container {
+    color: rgb(76, 9, 90);
+    font-weight: bold;
+    text-align: center;
+    font-size: 7px;
+    }
+>>>>>>> 852173ee9b34800617efe1fe021422424806a4df
 
 h1 {
   color: rgb(5, 5, 5);
@@ -34,6 +43,7 @@ h1 {
   font-size: 12px;
 }
 
+<<<<<<< HEAD
 body {
   background-image: url(https://media.istockphoto.com/id/959104114/vector/light-colored-beige-vintage-paper.jpg?s=612x612&w=0&k=20&c=JvE0rI9Htw-dwm6VlxW7UVbHtxKi_SnMEjpvXfwISa8=);
   background-size: cover;
@@ -105,9 +115,17 @@ element.style {
     font-family: 'sans-serif';
     text-align: center;
 }
+=======
+
+>>>>>>> 852173ee9b34800617efe1fe021422424806a4df
 
 iframe {
     position: relative;
     width: 24%;
     height: 22vh;
+<<<<<<< HEAD
 }
+=======
+  }
+
+>>>>>>> 852173ee9b34800617efe1fe021422424806a4df
