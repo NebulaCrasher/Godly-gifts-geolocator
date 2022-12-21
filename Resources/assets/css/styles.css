@@ -27,8 +27,22 @@ h1 {
   font-size: 40px;
 }
 
-.group-names-container {
-  color: rgb(8, 22, 48);
+.group-names-container-greek {
+  color: rgb(225, 230, 239);
+  font-family: 'sans-serif';
+  text-align: center;
+  font-size: 12px;
+}
+
+.group-names-container-norse {
+  color: rgb(126, 251, 255);
+  font-family: 'sans-serif';
+  text-align: center;
+  font-size: 12px;
+}
+
+.group-names-container-egypt {
+  color: rgb(15, 15, 15);
   font-family: 'sans-serif';
   text-align: center;
   font-size: 12px;
