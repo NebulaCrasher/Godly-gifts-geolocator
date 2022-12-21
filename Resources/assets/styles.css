@@ -1,49 +1,113 @@
 .text-center {
-    text-align: center;
-  }
+  text-align: center;
+}
 
-.group-names-container {
-    color: rgb(8, 22, 48);
-    font-family: 'sans-serif';
-    text-align: center;
-    font-size: 12px;
-    }
+p.card-text:first-letter {
+  text-transform:uppercase;
+}
+
+p {
+	font-family: papyrus, cursive;
+	font-size: 17px;
+}
+
+h5 {
+  font-family: papyrus, cursive;
+}
+
+h2 {
+	font-family: papyrus, cursive;
+	font-size: 30px;
+}
 
 h1 {
-    color: rgb(27, 24, 219);
-    font-family: 'sans-serif';
-    text-align: center;
-    font-size: 40px;
-    }
+  color: rgb(5, 5, 5);
+  font-family: papyrus, serif;
+  text-align: center;
+  font-size: 40px;
+}
 
+.group-names-container {
+  color: rgb(8, 22, 48);
+  font-family: 'sans-serif';
+  text-align: center;
+  font-size: 12px;
+}
 
 body {
+  background-image: url(https://media.istockphoto.com/id/959104114/vector/light-colored-beige-vintage-paper.jpg?s=612x612&w=0&k=20&c=JvE0rI9Htw-dwm6VlxW7UVbHtxKi_SnMEjpvXfwISa8=);
+  background-size: cover;
   padding: 0;
   margin: 0;
 }
 
-#map, body, html {
-  height: 100%;
+body.greek {
+  background-image: url(https://www.ancient-origins.net/sites/default/files/field/image/Mount-Olympus.jpg);
+  background-size: cover;
+  padding: 0;
+  margin: 0;
 }
 
-*::after {
-    box-sizing: border-box;
-  }
+body.norse {
+  background-image: url(https://wallpaperaccess.com/full/1617806.jpg);
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+}
 
-hr {
-  box-sizing: content-box;
-  height: 0;
-  overflow: visible;
+body.egypt {
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/007/403/225/small_2x/egyptian-desert-background-vector.jpg);
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+}    
+
+a:link {
+  color: rgb(25, 26, 25);
+  background-color: transparent;
+  text-decoration: underline;
+}
+      
+a:visited {
+  color: rgb(21, 20, 20);
+  background-color: transparent;
+  text-decoration: none;
+}
+      
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+      
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#bar-chart-container {
+  width: 65%;
+  border: 2px solid rgb(236, 124, 44);
+}
+
+#line-chart-container {
+  width: 65%;
+  border: 2px solid rgb(202, 155, 36);
+}
+
+#map-container {
+  border: 2px solid rgb(193, 154, 26);
 }
 
 element.style {
     color: rgb(27, 24, 219);
     font-family: 'sans-serif';
     text-align: center;
-    }
+}
 
 iframe {
     position: relative;
     width: 24%;
     height: 22vh;
-  }
+}

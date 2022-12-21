@@ -21,6 +21,8 @@ function card(god){
         document.getElementById("god-mythology").innerHTML = godObject[0].mythology
         document.getElementById("god-img").src = godObject[0]["Img URL"]
         document.getElementById("god-img").width = 250
+        document.getElementById("aspects").innerHTML = godObject[0].godly_aspects
+        document.getElementById("aspects2").innerHTML = godObject[0].godly_aspects2
     }
 )};
 

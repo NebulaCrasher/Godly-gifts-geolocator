@@ -3,17 +3,17 @@
       {
         id: "143",
         value: "-1500",
-        link: "https://www.google.com/maps"
+        link: "greek_index.html"
       },
       {
         id: "158",
         value: "-500",
-        link: "https://www.google.com/maps"
+        link: "norse_index.html"
       },
       {
         id: "53",
         value: "-700",
-        link: "https://www.google.com/maps"
+        link: "egypt_index.html"
       }
     ];
   
@@ -41,7 +41,9 @@
 
     var chartConfig = {
       type: "", 
-      renderAt: "", 
+      renderAt: "",
+      width: "400",
+      height: "260",  
       dataFormat: "json", 
       dataSource: {
         chart: {
@@ -113,7 +115,9 @@
 
     var chartConfig2 = {
       type: "", 
-      renderAt: "", 
+      renderAt: "",
+      width: "400",
+      height: "260", 
       dataFormat: "json", 
       dataSource: {
         chart: {
@@ -132,17 +136,21 @@
     var chartConfig3 = {
       type: "", 
       renderAt: "", 
-      width: "900", //width of the chart
-      height: "650", //height of the chart
+      width: "100%", //width of the chart
+      height: "100%", //height of the chart
       dataFormat: "json", 
       dataSource: {
         chart: {
           caption: "Godly Regions",
-          subcaption: "Click on a region",
+          subcaption: "Select a Region to View Its Gods",
           labelsepchar: ": ",
           entitytooltext: "$lname: From year <b>$datavalue </b>",
           entityfillhovercolor: "#FFF9C4",
-          theme: "fusion"
+          theme: "fusion",
+          mapRightMargin: "-975",
+          mapLeftMargin: "-780",
+          mapTopMargin: "-780",
+          mapBottomMargin: "-1040"
   
         },
       colorrange: {

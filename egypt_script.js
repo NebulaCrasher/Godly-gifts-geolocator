@@ -21,6 +21,10 @@ function card(god){
         document.getElementById("god-mythology").innerHTML = godObject[0].mythology
         document.getElementById("god-img").src = godObject[0]["Img URL"]
         document.getElementById("god-img").width = 250
+        document.getElementById("aspects").innerHTML = godObject[0].godly_aspects
+        document.getElementById("aspects2").innerHTML = godObject[0].godly_aspects2
+        // document.getElementById("trend").inputMode = trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":[godObject[0].god_name],"geo":"","time":"2004-01-01 2022-12-20"}],"category":0,"property":""}, {"exploreQuery":"date=all&q="[godObject[0].god_name],"guestPath":"https://trends.google.com:443/trends/embed/"});
+        // src="https://ssl.gstatic.com/trends_nrtr/3197_RC01/embed_loader.js"
     }
 )};
 
