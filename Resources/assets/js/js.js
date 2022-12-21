@@ -3,17 +3,17 @@
       {
         id: "143",
         value: "-1500",
-        link: "greek_index.html"
+        link: "./Mythology_Type/greek_index.html"
       },
       {
         id: "158",
         value: "-500",
-        link: "norse_index.html"
+        link: "./Mythology_Type/norse_index.html"
       },
       {
         id: "53",
         value: "-700",
-        link: "egypt_index.html"
+        link: "./Mythology_Type/egypt_index.html"
       }
     ];
   
@@ -153,28 +153,28 @@
           mapBottomMargin: "-1040"
   
         },
-      colorrange: {
-        minvalue: "-1500",
-        code: "#FFE0B2",
-        gradient: "10",
-        color: [
-          {
-            minvalue: "-1500",
-            maxvalue: "-1000",
-            color: "#FFD74D"
-          },
-          {
-            minvalue: "-1000",
-            maxvalue: "-500",
-            color: "#FB8C00"
-          },
-          {
-            minvalue: "0",
-            maxvalue: "1000",
-            color: "#E65100"
-          }
-        ]
-      },
+        colorrange: {
+          minvalue: "-1500",
+          code: "#FFE0B2",
+          gradient: "10",
+          color: [
+            {
+              minvalue: "-1500",
+              maxvalue: "-1000",
+              color: "#FFD74D"
+            },
+            {
+              minvalue: "-1000",
+              maxvalue: "-500",
+              color: "#FB8C00"
+            },
+            {
+              minvalue: "-500",
+              maxvalue: "0",
+              color: "#E65100"
+            },
+          ]
+        },
         // Connect the data
         data: countryData
       }
