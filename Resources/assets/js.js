@@ -3,17 +3,17 @@
       {
         id: "143",
         value: "-1500",
-        link: "https://www.google.com/maps"
+        link: "./greece_index.html"
       },
       {
         id: "158",
         value: "-500",
-        link: "https://www.google.com/maps"
+        link: "./norse_index.html"
       },
       {
         id: "53",
         value: "-700",
-        link: "https://www.google.com/maps"
+        link: "./egypt_index.html"
       }
     ];
   
@@ -42,6 +42,8 @@
     var chartConfig = {
       type: "", 
       renderAt: "", 
+      width: "500", //width of the chart
+      height: "280", //height of the chart
       dataFormat: "json", 
       dataSource: {
         chart: {
@@ -114,6 +116,8 @@
     var chartConfig2 = {
       type: "", 
       renderAt: "", 
+      width: "500", //width of the chart
+      height: "280", //height of the chart
       dataFormat: "json", 
       dataSource: {
         chart: {
@@ -181,7 +185,7 @@
   
       function renderLine(){
         chartConfig.type = 'gantt';   	
-          chartConfig.renderAt = 'line-chart-container';        
+          chartConfig.renderAt = 'timeline-chart-container';        
         var fusioncharts = new FusionCharts(chartConfig);
         fusioncharts.render();
       }    
