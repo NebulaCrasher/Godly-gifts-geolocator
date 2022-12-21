@@ -3,10 +3,10 @@
   }
 
 .group-names-container {
-    color: rgb(8, 22, 48);
-    font-family: 'sans-serif';
+    color: rgb(76, 9, 90);
+    font-weight: bold;
     text-align: center;
-    font-size: 12px;
+    font-size: 7px;
     }
 
 h1 {
@@ -17,33 +17,11 @@ h1 {
     }
 
 
-body {
-  padding: 0;
-  margin: 0;
-}
 
-#map, body, html {
-  height: 100%;
-}
-
-*::after {
-    box-sizing: border-box;
-  }
-
-hr {
-  box-sizing: content-box;
-  height: 0;
-  overflow: visible;
-}
-
-element.style {
-    color: rgb(27, 24, 219);
-    font-family: 'sans-serif';
-    text-align: center;
-    }
 
 iframe {
     position: relative;
     width: 24%;
     height: 22vh;
   }
+
