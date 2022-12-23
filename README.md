@@ -36,11 +36,7 @@ Data is hosted via Amazon's s3 service. This service interacts with another Amaz
 
 
 ## HTML
-    ## Dashboard
-
-    *
-
-    ## Each region's specific page
+    The set-up of all pages included in this project was done through the Bootstrap library (v5.2). All pages have three main text portions: the title, header, and designers' names, where the title also serves as a link that goes back to the landing page. The landing page consists of three containers of varying sizes that hold a graph or interactive map that is called from the javascript file. The three mythology pages all share the same layout where a drop-down gives the user a selection of gods and the selected god's image and basic information are then called to display in the page's card and image containers. 
 
 ## Javascript
 
@@ -53,12 +49,18 @@ Data is hosted via Amazon's s3 service. This service interacts with another Amaz
     * Moved the parameters given on the Fusioncharts documentation for each chart in order to meet our specific requirements.
 
     ## Each region's specific page
-    
+        Here, the functions and scripts of each mythology's file were nearly identical other than unique identifiers that corresponded to the respective mythology's data. D3 was used to call the data from the s3 link. From there functions were created to retrieve specific data and place it in the desired space on the html file. The functions automatically run after a different god is selected in order to update the information.
 
 ## CSS
 
+    One styles sheet was used for all four pages of this project: id's and classes distinguished the styles for each mythology page in order for their appearance to represent their region.
 
 ## Future Development
-<hr>
-
-???
+    With more time:
+        * more interactive aspects could be added to the map and charts such as more detailed geographic info for each god
+        * a more up-to-date library could be used to replace fusioncharts, as fusioncharts may have stopped updating their library several years ago
+        * a google trend map for each god where users could see what regions of the world search that god's name the most
+    With more data/deeper dive:
+        * many more mythologies and gods could be added to the data set
+        * a family tree that explains the breakdown of each mythology/how one god relates to another
+        * comparisons between mythologies that show similarities between gods
