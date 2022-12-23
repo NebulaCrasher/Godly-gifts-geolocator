@@ -49,13 +49,22 @@ The set-up of all pages included in this project was done through the Bootstrap 
         * Used column2d chart to show how many gods/godesses are on each region.
         * Used gantt chart for the timeline for each regions approximate years.
     * Moved the parameters given on the Fusioncharts documentation for each chart in order to meet our specific requirements.
+    
+<img src= "/Resources/Screenshots/landing.png" width="60%">
+<img src= "/Resources/Screenshots/landing_html.png" width="80%">
 
 ## Each region's specific page
 Here, the functions and scripts of each mythology's file were nearly identical other than unique identifiers that corresponded to the respective mythology's data. D3 was used to call the data from the s3 link. From there functions were created to retrieve specific data and place it in the desired space on the html file. The functions automatically run after a different god is selected in order to update the information.
 
+<img src= "/Resources/Screenshots/egypt_html.png" width="80%">
+<img src= "/Resources/Screenshots/egypt.png" width="60%">
+<img src= "/Resources/Screenshots/greek.png" width="60%">
+<img src= "/Resources/Screenshots/norse.png" width="60%">
 ## CSS
 
 One styles sheet was used for all four pages of this project: id's and classes distinguished the styles for each mythology page in order for their appearance to represent their region.
+
+<img src= "/Resources/Screenshots/css.png" width="80%">
 
 ## Future Development
 With more time:
